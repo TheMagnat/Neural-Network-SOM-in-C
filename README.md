@@ -9,7 +9,13 @@ A C compiler
 
 ### Installing
 
-Just run make
+Go in the SOM folder
+
+```
+cd SOM/
+
+
+Run make
 
 ```
 make
